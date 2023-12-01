@@ -4,7 +4,7 @@ from datetime import datetime
 
 def find_places(address, query_type):
 
-    gmaps = googlemaps.Client(key='AIzaSyBPRE58CTevRuuT5vd1vT2L5ujdTiVNuYk')
+    gmaps = googlemaps.Client(key='')
 
  
     geocode_result = gmaps.geocode(address)
