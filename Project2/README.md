@@ -1,7 +1,10 @@
 Project Purpose and Background
+
 With the increasing pace of urban life, there is a growing need to quickly and accurately find nearby services such as restaurants, cafes, or gas stations. Although there are various mapping applications available on the market, they usually provide information that needs to be bigger and more complex, making users need to spend extra time to sift and compare. In addition, these apps are usually designed to fulfill the needs of most of the population. They may need help to meet the more specific needs of individual users (e.g., finding only highly rated restaurants or currently open stores).
 With this background in mind, this project aims to provide a straightforward solution that allows users to quickly get highly rated and currently open service establishments around them by entering an address and selecting the type of business they wish to find. The project uses the Google Maps API to provide rich and accurate geographic information and merchant data.
+
 Uses
+
 City planning and analysis: Analyzing the types and ratings of services in a given area can provide some data to support city planning.
 Travel planning: Travelers or tour operators can use this tool to better plan their trip by knowing in advance what services are available near their destination.
 Market Research: While more comprehensive than specialized market analysis tools, this simple tool can provide small businesses or self-employed individuals with preliminary market information, such as the availability of similar services in the vicinity and how users rate them.
