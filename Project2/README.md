@@ -1,9 +1,8 @@
-`Project Purpose and Background
-`
+`Project Purpose and Background`
 With the increasing pace of urban life, there is a growing need to quickly and accurately find nearby services such as restaurants, cafes, or gas stations. Although there are various mapping applications available on the market, they usually provide information that needs to be bigger and more complex, making users need to spend extra time to sift and compare. In addition, these apps are usually designed to fulfill the needs of most of the population. They may need help to meet the more specific needs of individual users (e.g., finding only highly rated restaurants or currently open stores).
 With this background in mind, this project aims to provide a straightforward solution that allows users to quickly get highly rated and currently open service establishments around them by entering an address and selecting the type of business they wish to find. The project uses the Google Maps API to provide rich and accurate geographic information and merchant data.
-`Uses`
 
+`Uses`
 City planning and analysis: Analyzing the types and ratings of services in a given area can provide some data to support city planning.
 Travel planning: Travelers or tour operators can use this tool to better plan their trip by knowing in advance what services are available near their destination.
 Market Research: While more comprehensive than specialized market analysis tools, this simple tool can provide small businesses or self-employed individuals with preliminary market information, such as the availability of similar services in the vicinity and how users rate them.
@@ -11,6 +10,7 @@ Emergency Response: In an emergency or disaster, it may be critical to quickly l
 Social Events: Users can use the tool to plan meeting places with friends or family, choosing the most suitable venues based on ratings and distance.
 `Product Mission Statement`
 This product aims to provide an intuitive, easy-to-use platform that allows users to quickly and accurately find the information they need about business locations, such as restaurants and cafes. We are committed to improving users' daily experience through efficient location search and intelligent recommendation algorithms. Through real-time data analytics and personalized services, we expect to help users save time and discover the best places to go, thus improving their quality of life.
+
 `Product User Stories`
 As a consumer who eats out frequently, I want to bend restaurants that are close to my current location so that I can quickly schedule my meals.
 As a coffee lover who likes to try new cafes, I want the app to recommend newly opened cafes near me so I can enjoy the latest coffee experience.
